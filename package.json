@@ -1,0 +1,27 @@
+{
+  "name": "aula",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouraneto/aula.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mouraneto/aula/issues"
+  },
+  "homepage": "https://github.com/mouraneto/aula#readme",
+  "dependencies": {
+    "nest": "^0.1.6",
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
